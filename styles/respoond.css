@@ -35,7 +35,7 @@ img{
     text-align: left;
     padding: auto;
     height: 19rem;
-    background-color: rgb(255, 255, 255);
+    background-color: white;
     width: 300px;
     margin: auto;
     border-radius: 1rem;
@@ -167,7 +167,7 @@ font-weight: 500;
         text-align: left;
         padding: auto;
         height: 19rem;
-        background-color: white ;
+        background-color: white;
         width: auto;
         margin: auto;
         border-radius: 1rem;
