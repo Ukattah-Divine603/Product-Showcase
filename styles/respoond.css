@@ -95,7 +95,7 @@ margin-left: 12px;
 }
 
 header{
-    position: relative;
+    position: fixed ;
 width: auto;
 z-index: 100;
 padding: 2rem;
