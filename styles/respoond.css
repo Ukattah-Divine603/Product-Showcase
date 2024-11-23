@@ -84,7 +84,8 @@ p{
 
 font-family: Roboto, sans-serif;
 font-size: 13px;
-margin: 1rem;
+margin-left: 1rem;
+margin-right: 1rem;
 }
 
 h3{
