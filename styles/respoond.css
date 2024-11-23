@@ -95,7 +95,7 @@ margin-left: 12px;
 }
 
 header{
-    position: fixed ;
+    position: relative ;
 width: auto;
 z-index: 100;
 padding: 2rem;
@@ -183,6 +183,17 @@ font-weight: 500;
         margin-left: 0.5rem;
         margin-right: 0.5rem;
     }
+
+
+header{
+    position: fixed ;
+width: auto;
+z-index: 100;
+padding: 2rem;
+background-color: rgb(241, 241, 241);
+box-shadow: 0 7px 10px rgba(90, 87, 87, 0.411); 
+}
+
 }
 
 @media screen and (min-width: 768px) and
