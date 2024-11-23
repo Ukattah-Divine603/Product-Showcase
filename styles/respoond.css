@@ -10,7 +10,7 @@
 .main-mine{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    background-color: white;
+    background-color: black;
     padding: 3rem;
     gap: 5rem;
     width: auto;
