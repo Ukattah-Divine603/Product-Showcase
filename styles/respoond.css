@@ -29,7 +29,7 @@
 }
 
 img{
-    background-size: contain;
+    object-fit: contain;
     overflow: hidden;
     width: 100%;
     height: 100%;
