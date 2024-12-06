@@ -31,8 +31,8 @@
 img{
     
     overflow: hidden;
-    width: 100% ;
-    height: 12rem;
+    width: 100%;
+    
     border-top-left-radius: 15px;
     border-top-right-radius: 15px;
 }
